@@ -1,0 +1,6 @@
+{
+  "name": "Leste Maps",
+  "description": "Landing page mobile-first para consultoria de presença digital com Anselmo Simão em Saurimo, Angola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
